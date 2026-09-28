@@ -1,6 +1,6 @@
 const express = require("express");
 
-const studentRoutes = require("./routes/studentRoutes");
+const studentRoutes = require("./routes/studentroutes");
 const logger = require("./middleware/logger");
 
 const app = express();

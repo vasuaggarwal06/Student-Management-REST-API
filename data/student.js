@@ -14,6 +14,11 @@ let students = [
     name: "Amit",
     course: "BCA",
   },
+  {
+    id: 4,
+    name: "Sneha",
+    course: "BTech",
+  },
 ];
 
 module.exports = students;
